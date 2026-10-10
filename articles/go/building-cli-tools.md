@@ -1,3 +1,18 @@
+---
+title: "Building CLI Tools in Go"
+description: "Guidelines for designing, testing, and building composable command-line tools in Go."
+date: 2026-10-10
+updated: 2026-10-10
+category: "go"
+tags:
+  - go
+  - cli
+  - command-line
+published: true
+projects:
+  - notes
+---
+
 # Building CLI Tools in Go
 
 Go is a strong fit for command-line tools because it produces fast, portable binaries and has a capable standard library.

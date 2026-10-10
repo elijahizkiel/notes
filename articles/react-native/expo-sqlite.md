@@ -1,3 +1,18 @@
+---
+title: "Expo SQLite"
+description: "Using Expo SQLite for local persistence in React Native applications."
+date: 2026-10-10
+updated: 2026-10-10
+category: "react-native"
+tags:
+  - react-native
+  - expo
+  - sqlite
+published: true
+projects:
+  - notes
+---
+
 # Expo SQLite
 
 Expo SQLite provides a local SQLite database for React Native applications. It is useful for offline-first features, cached API data, and small collections of structured device data.

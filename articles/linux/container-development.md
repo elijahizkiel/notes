@@ -1,3 +1,18 @@
+---
+title: "Linux Container Development"
+description: "A practical workflow for building repeatable development environments with containers."
+date: 2026-10-10
+updated: 2026-10-10
+category: "linux"
+tags:
+  - linux
+  - containers
+  - development
+published: true
+projects:
+  - notes
+---
+
 # Linux Container Development
 
 Containers make development environments repeatable by packaging a project with its runtime, system libraries, and tools. A good development container should preserve fast feedback while keeping the host clean.
